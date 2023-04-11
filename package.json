@@ -1,0 +1,6 @@
+{
+  "name": "strapi-provider-email-customerio-mock",
+  "packageManager": "yarn@3.2.2",
+  "main": "index.js",
+  "version": "1.0.0"
+}
